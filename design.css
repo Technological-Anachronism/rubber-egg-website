@@ -1,0 +1,44 @@
+#headerArea {
+	text-align: center;
+	background-color: #f7e6d4;
+	height: 110px;
+}
+#mainContentArea {
+	width: 85%;
+	height: 500px;
+	padding-left: 40px;
+}
+#eggImage {
+	right: 10px;
+	top: 140px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	position: fixed;
+}
+#navigationMenu {
+	text-align: left;
+	padding-left: 20px;
+}
+#mainDiv {
+	position: static;
+	width: 100%;
+}
+.mainArea {
+	vertical-align: top;
+	background-color: #dcf9d2;
+}
+#footerArea {
+	text-align: center;
+	background-color: #f7e6d4;
+	height: 30px;
+}
+body {
+	background-color: hsl(29, 45%, 97%);
+}
+div {
+	text-align: left;
+}
+ul {
+	display: inline-block;
+	text-align: left;
+}
